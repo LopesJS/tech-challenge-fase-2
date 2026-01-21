@@ -1,0 +1,10 @@
+# Arquivos e pastas do Git
+.git
+.gitignore
+
+# Variáveis de ambiente
+.env
+.env.*
+
+# Arquivos de logs
+*.log

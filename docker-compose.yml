@@ -1,0 +1,7 @@
+include:
+  - path: analytics-service-main/docker-compose.yml
+  - path: flag-service-main/docker-compose.yml
+  - path: auth-service-main/docker-compose.yml
+  #- path: evaluation-service-main/docker-compose.yml
+  - path: targeting-service-main/docker-compose.yml
+  
